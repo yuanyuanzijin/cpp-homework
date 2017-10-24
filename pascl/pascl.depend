@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1508768724 source:d:\onedrive\project\c++\pascl\main.cpp
+	<iostream>
+	<stack>
+	<stdlib.h>
+	<cassert>
+	<fstream>
+	<string>
+
+1508770060 source:f:\onedrive\project\c++\pascl\main.cpp
+	<iostream>
+	<stack>
+	<stdlib.h>
+	<cassert>
+	<fstream>
+	<string>
+
