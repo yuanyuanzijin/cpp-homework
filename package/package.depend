@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509266777 source:d:\program\c-plus-plus\package\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<windows.h>
+	<wincrypt.h>
+
